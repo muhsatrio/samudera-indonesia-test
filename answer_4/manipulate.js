@@ -1,0 +1,1 @@
+color = ["merah", "kuning", "hijau", "pink", "ungu"]
