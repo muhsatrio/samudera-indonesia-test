@@ -44,7 +44,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"username\": \"msatrio123\",\n    \"password\": \"msatrio123\"\n}",
+							"raw": "{\n    \"username\": \"msatrio123\",\n    \"password\": \"msatrio123\",\n    \"name\": \"msatrio123\"\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -118,13 +118,13 @@
 						"method": "POST",
 						"header": [],
 						"url": {
-							"raw": "{{host}}/api/promos/seed",
+							"raw": "{{host}}/api/items/seed",
 							"host": [
 								"{{host}}"
 							],
 							"path": [
 								"api",
-								"promos",
+								"items",
 								"seed"
 							]
 						}
